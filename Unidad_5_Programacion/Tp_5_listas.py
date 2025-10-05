@@ -342,7 +342,8 @@ print("¡Juego terminado!") #mensaje final
 # • Mostrar el día con mayores ventas totales.
 # • Indicar cuál fue el producto más vendido en la semana.
 
-#ACLARACION: al igual que el ejercicio anterior
+#ACLARACION: al igual que el ejercicio anterior este ejercicio me resultó bastante dificil, me esforcé en utilizar las herramientas vistas 
+#            hasta la fecha y me apoyé en material de videos, foros y documentacion. Espero el resultado sea el deseado y por cualquier cosa estoy a disposicion del tutor
 
 lista_productos= ["arroz", "fideos", "leche", "queso"]
 dias = ["Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"]
